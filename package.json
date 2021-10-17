@@ -13,7 +13,9 @@
   "license": "ISC",
   "homepage": "https://github.com/adamkiluk/issac-webpack#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0",
     "css-loader": "^6.4.0",
+    "html-loader": "^2.1.2",
     "html-webpack-plugin": "^5.4.0",
     "sass": "^1.43.2",
     "sass-loader": "^12.2.0",
