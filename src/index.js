@@ -1,1 +1,3 @@
-alert("AXA")
+import { runApp } from "./app";
+
+runApp();
