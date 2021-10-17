@@ -1,0 +1,18 @@
+{
+  "name": "issac-webpack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/adamkiluk/issac-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.58.2",
+    "webpack-cli": "^4.9.0"
+  }
+}
